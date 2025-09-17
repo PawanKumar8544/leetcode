@@ -3,9 +3,9 @@ class FoodRatings {
     for (int i = 0; i < foods.length; ++i) {
       cuisineToRatingAndFoods.putIfAbsent(
           cuisines[i],
-          new TreeSet<>((a, b)
-                            -> a.getKey().equals(b.getKey()) ? a.getValue().compareTo(b.getValue())
-                                                             : b.getKey() - a.getKey()));
+          new TreeSet<>(
+              Comparator.comparing(Pair<Integer, String>::getKey, Comparator.reverseOrder())
+                  .thenComparing(Pair<Integer, String>::getValue)));
       cuisineToRatingAndFoods.get(cuisines[i]).add(new Pair<>(ratings[i], foods[i]));
       foodToCuisine.put(foods[i], cuisines[i]);
       foodToRating.put(foods[i], ratings[i]);
