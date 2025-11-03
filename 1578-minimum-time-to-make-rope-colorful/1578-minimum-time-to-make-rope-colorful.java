@@ -1,6 +1,6 @@
 class Solution {
-    public int minCost(String colors, int[] neededTime) {
-        int ans = 0;
+  public int minCost(String colors, int[] neededTime) {
+    int ans = 0;
     int maxNeededTime = neededTime[0];
 
     for (int i = 1; i < colors.length(); ++i)
@@ -16,5 +16,5 @@ class Solution {
       }
 
     return ans;
-    }
+  }
 }
