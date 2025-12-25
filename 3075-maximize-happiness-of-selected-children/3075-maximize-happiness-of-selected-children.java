@@ -1,6 +1,6 @@
 class Solution {
-  public long maximumHappinessSum(int[] happiness, int k) {
-    final int n = happiness.length;
+    public long maximumHappinessSum(int[] happiness, int k) {
+      final int n = happiness.length;
     long ans = 0;
     int decremented = 0;
 
@@ -11,6 +11,6 @@ class Solution {
       ++decremented;
     }
 
-    return ans;
-  }
+    return ans;   
+    }
 }
