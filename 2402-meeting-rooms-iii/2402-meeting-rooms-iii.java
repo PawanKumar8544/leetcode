@@ -1,22 +1,12 @@
-class T {
-  public long endTime;
-  public int roomId;
-  public T(long endTime, int roomId) {
-    this.endTime = endTime;
-    this.roomId = roomId;
-  }
-}
-
 class Solution {
   public int mostBooked(int n, int[][] meetings) {
+    record T(long endTime, int roomId) {}
     int[] count = new int[n];
 
-    Arrays.sort(meetings, (a, b) -> a[0] - b[0]);
+    Arrays.sort(meetings, Comparator.comparingInt(meeting -> meeting[0]));
 
     Queue<T> occupied =
-        new PriorityQueue<>((a, b)
-                                -> a.endTime == b.endTime ? Integer.compare(a.roomId, b.roomId)
-                                                          : Long.compare(a.endTime, b.endTime));
+        new PriorityQueue<>(Comparator.comparingLong(T::endTime).thenComparingInt(T::roomId));
     Queue<Integer> availableRoomIds = new PriorityQueue<>();
 
     for (int i = 0; i < n; ++i)
