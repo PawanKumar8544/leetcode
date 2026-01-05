@@ -1,6 +1,6 @@
 class Solution {
-  public long maxMatrixSum(int[][] matrix) {
-    long absSum = 0;
+    public long maxMatrixSum(int[][] matrix) {
+        long absSum = 0;
     int minAbs = Integer.MAX_VALUE;
     // 0 := even number of negatives
     // 1 := odd number of negatives
@@ -15,5 +15,5 @@ class Solution {
       }
 
     return absSum - oddNeg * minAbs * 2;
-  }
+    }
 }
