@@ -15,7 +15,7 @@
  */
 class Solution {
     public TreeNode balanceBST(TreeNode root) {
-        List<Integer> nums = new ArrayList<>();
+         List<Integer> nums = new ArrayList<>();
     inorder(root, nums);
     return build(nums, 0, nums.size() - 1);
   }
@@ -34,6 +34,5 @@ class Solution {
       return null;
     final int m = (l + r) / 2;
     return new TreeNode(nums.get(m), build(nums, l, m - 1), build(nums, m + 1, r));
-  
     }
 }
