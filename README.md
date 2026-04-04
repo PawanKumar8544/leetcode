@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PawanKumar8544/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PawanKumar8544/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/PawanKumar8544/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/PawanKumar8544/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PawanKumar8544/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/PawanKumar8544/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2751-robot-collisions](https://github.com/PawanKumar8544/leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PawanKumar8544/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/PawanKumar8544/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String Matching
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/PawanKumar8544/leetcode/tree/master/2751-robot-collisions) |
+## Binary Search
+|  |
+| ------- |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/PawanKumar8544/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 <!---LeetCode Topics End-->
