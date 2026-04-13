@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/PawanKumar8544/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/PawanKumar8544/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2573-find-the-string-with-lcp](https://github.com/PawanKumar8544/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/PawanKumar8544/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PawanKumar8544/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
