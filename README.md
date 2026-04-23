@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/PawanKumar8544/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/PawanKumar8544/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/PawanKumar8544/leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/PawanKumar8544/leetcode/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/PawanKumar8544/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PawanKumar8544/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/PawanKumar8544/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -41,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/PawanKumar8544/leetcode/tree/master/2615-sum-of-distances) |
 | [3546-equal-sum-grid-partition-i](https://github.com/PawanKumar8544/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/PawanKumar8544/leetcode/tree/master/0874-walking-robot-simulation) |
+| [2615-sum-of-distances](https://github.com/PawanKumar8544/leetcode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PawanKumar8544/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/PawanKumar8544/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
