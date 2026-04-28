@@ -1,6 +1,6 @@
 class Solution {
-  public int minOperations(int[][] grid, int x) {
-    final int m = grid.length;
+    public int minOperations(int[][] grid, int x) {
+      final int m = grid.length;
     final int n = grid[0].length;
     int[] arr = new int[m * n];
     for (int i = 0; i < m; ++i)
@@ -16,6 +16,6 @@ class Solution {
     for (final int a : arr)
       ans += Math.abs(a - arr[arr.length / 2]) / x;
 
-    return ans;
-  }
+    return ans;  
+    }
 }
