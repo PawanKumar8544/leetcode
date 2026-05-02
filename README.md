@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/PawanKumar8544/leetcode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/PawanKumar8544/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/PawanKumar8544/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/PawanKumar8544/leetcode/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PawanKumar8544/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PawanKumar8544/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/PawanKumar8544/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/PawanKumar8544/leetcode/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PawanKumar8544/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/PawanKumar8544/leetcode/tree/master/2463-minimum-total-distance-traveled) |
