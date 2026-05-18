@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/PawanKumar8544/leetcode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/PawanKumar8544/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/PawanKumar8544/leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PawanKumar8544/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/PawanKumar8544/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/PawanKumar8544/leetcode/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PawanKumar8544/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/PawanKumar8544/leetcode/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/PawanKumar8544/leetcode/tree/master/2784-check-if-array-is-good) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/PawanKumar8544/leetcode/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/PawanKumar8544/leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
