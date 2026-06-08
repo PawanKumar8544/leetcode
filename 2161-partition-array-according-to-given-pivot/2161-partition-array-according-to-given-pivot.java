@@ -1,6 +1,6 @@
 class Solution {
-  public int[] pivotArray(int[] nums, int pivot) {
-    int[] ans = new int[nums.length];
+    public int[] pivotArray(int[] nums, int pivot) {
+     int[] ans = new int[nums.length];
     int i = 0; // ans' index
 
     for (final int num : nums)
@@ -18,3 +18,4 @@ class Solution {
     return ans;
   }
 }
+
