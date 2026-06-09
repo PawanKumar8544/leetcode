@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/PawanKumar8544/leetcode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/PawanKumar8544/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3689-maximum-total-subarray-value-i](https://github.com/PawanKumar8544/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PawanKumar8544/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/PawanKumar8544/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PawanKumar8544/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PawanKumar8544/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/PawanKumar8544/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Union-Find
 |  |
 | ------- |
