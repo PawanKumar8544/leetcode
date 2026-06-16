@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/PawanKumar8544/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/PawanKumar8544/leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/PawanKumar8544/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/PawanKumar8544/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/PawanKumar8544/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/PawanKumar8544/leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/PawanKumar8544/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/PawanKumar8544/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/PawanKumar8544/leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/PawanKumar8544/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
