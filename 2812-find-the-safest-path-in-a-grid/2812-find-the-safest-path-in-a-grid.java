@@ -1,6 +1,6 @@
 class Solution {
-  public int maximumSafenessFactor(List<List<Integer>> grid) {
-    int[][] distToThief = getDistToThief(grid);
+    public int maximumSafenessFactor(List<List<Integer>> grid) {
+        int[][] distToThief = getDistToThief(grid);
     int l = 0;
     int r = grid.size() * 2;
 
@@ -15,14 +15,14 @@ class Solution {
     return l - 1;
   }
 
-  private static final int[][] dirs = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+  private static final int[][] DIRS = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
 
   private boolean hasValidPath(int[][] distToThief, int safeness) {
     if (distToThief[0][0] < safeness)
       return false;
 
     final int n = distToThief.length;
-    Queue<Pair<Integer, Integer>> q = new ArrayDeque<>(Arrays.asList(new Pair<>(0, 0)));
+    Queue<Pair<Integer, Integer>> q = new ArrayDeque<>(List.of(new Pair<>(0, 0)));
     boolean[][] seen = new boolean[n][n];
     seen[0][0] = true;
 
@@ -33,7 +33,7 @@ class Solution {
         continue;
       if (i == n - 1 && j == n - 1)
         return true;
-      for (int[] dir : dirs) {
+      for (int[] dir : DIRS) {
         final int x = i + dir[0];
         final int y = j + dir[1];
         if (x < 0 || x == n || y < 0 || y == n)
@@ -66,7 +66,7 @@ class Solution {
         final int i = q.peek().getKey();
         final int j = q.poll().getValue();
         distToThief[i][j] = dist;
-        for (int[] dir : dirs) {
+        for (int[] dir : DIRS) {
           final int x = i + dir[0];
           final int y = j + dir[1];
           if (x < 0 || x == n || y < 0 || y == n)
@@ -80,5 +80,5 @@ class Solution {
     }
 
     return distToThief;
-  }
+    }
 }
