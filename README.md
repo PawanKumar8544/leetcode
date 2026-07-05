@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PawanKumar8544/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/PawanKumar8544/leetcode/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/PawanKumar8544/leetcode/tree/master/0874-walking-robot-simulation) |
+| [1301-number-of-paths-with-max-score](https://github.com/PawanKumar8544/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/PawanKumar8544/leetcode/tree/master/1345-jump-game-iv) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/PawanKumar8544/leetcode/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/PawanKumar8544/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1861-rotating-the-box](https://github.com/PawanKumar8544/leetcode/tree/master/1861-rotating-the-box) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/PawanKumar8544/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/PawanKumar8544/leetcode/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/PawanKumar8544/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PawanKumar8544/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/PawanKumar8544/leetcode/tree/master/1871-jump-game-vii) |
