@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PawanKumar8544/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanKumar8544/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/PawanKumar8544/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/PawanKumar8544/leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PawanKumar8544/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PawanKumar8544/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PawanKumar8544/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PawanKumar8544/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/PawanKumar8544/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/PawanKumar8544/leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/PawanKumar8544/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/PawanKumar8544/leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PawanKumar8544/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/PawanKumar8544/leetcode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/PawanKumar8544/leetcode/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/PawanKumar8544/leetcode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/PawanKumar8544/leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/PawanKumar8544/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PawanKumar8544/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1340-jump-game-v) |
@@ -499,4 +502,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PawanKumar8544/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/PawanKumar8544/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
