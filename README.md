@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/PawanKumar8544/leetcode/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/PawanKumar8544/leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PawanKumar8544/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PawanKumar8544/leetcode/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/PawanKumar8544/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/PawanKumar8544/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/PawanKumar8544/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1871-jump-game-vii](https://github.com/PawanKumar8544/leetcode/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/PawanKumar8544/leetcode/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/PawanKumar8544/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PawanKumar8544/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/PawanKumar8544/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/PawanKumar8544/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PawanKumar8544/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/PawanKumar8544/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/PawanKumar8544/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PawanKumar8544/leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/PawanKumar8544/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/PawanKumar8544/leetcode/tree/master/2126-destroying-asteroids) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PawanKumar8544/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/PawanKumar8544/leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PawanKumar8544/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
