@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/PawanKumar8544/leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/PawanKumar8544/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/PawanKumar8544/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PawanKumar8544/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/PawanKumar8544/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PawanKumar8544/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/PawanKumar8544/leetcode/tree/master/1871-jump-game-vii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PawanKumar8544/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PawanKumar8544/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PawanKumar8544/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Indexed Tree
