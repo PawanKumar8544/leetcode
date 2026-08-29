@@ -37,7 +37,9 @@ class Solution {
     Pair<Integer, Integer>[] numAndIndexes = new Pair[nums.length];
     for (int i = 0; i < nums.length; ++i)
       numAndIndexes[i] = new Pair<>(nums[i], i);
-    Arrays.sort(numAndIndexes, (a, b) -> a.getKey().compareTo(b.getKey()));
+    Arrays.sort(numAndIndexes, Comparator.comparingInt(Pair::getKey));
     return numAndIndexes;
   }
 }
+
+
