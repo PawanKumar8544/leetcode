@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PawanKumar8544/leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PawanKumar8544/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/PawanKumar8544/leetcode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1871-jump-game-vii](https://github.com/PawanKumar8544/leetcode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/PawanKumar8544/leetcode/tree/master/1872-stone-game-viii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/PawanKumar8544/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PawanKumar8544/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/PawanKumar8544/leetcode/tree/master/1840-maximum-building-height) |
 | [1872-stone-game-viii](https://github.com/PawanKumar8544/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PawanKumar8544/leetcode/tree/master/1927-sum-game) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PawanKumar8544/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/PawanKumar8544/leetcode/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/PawanKumar8544/leetcode/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/PawanKumar8544/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PawanKumar8544/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/PawanKumar8544/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/PawanKumar8544/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Recursion
