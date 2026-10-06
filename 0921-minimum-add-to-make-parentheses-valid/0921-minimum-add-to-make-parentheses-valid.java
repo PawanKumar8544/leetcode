@@ -1,6 +1,6 @@
 class Solution {
-  public int minAddToMakeValid(String s) {
-    int l = 0;
+    public int minAddToMakeValid(String s) {
+        int l = 0;
     int r = 0;
 
     for (final char c : s.toCharArray())
@@ -14,5 +14,5 @@ class Solution {
       }
 
     return l + r;
-  }
+    }
 }
