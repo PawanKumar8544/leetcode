@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/PawanKumar8544/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/PawanKumar8544/leetcode/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PawanKumar8544/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/PawanKumar8544/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/PawanKumar8544/leetcode/tree/master/1406-stone-game-iii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/PawanKumar8544/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PawanKumar8544/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/PawanKumar8544/leetcode/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PawanKumar8544/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PawanKumar8544/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/PawanKumar8544/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/PawanKumar8544/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PawanKumar8544/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/PawanKumar8544/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/PawanKumar8544/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PawanKumar8544/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PawanKumar8544/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PawanKumar8544/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PawanKumar8544/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/PawanKumar8544/leetcode/tree/master/0061-rotate-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/PawanKumar8544/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PawanKumar8544/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/PawanKumar8544/leetcode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PawanKumar8544/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
