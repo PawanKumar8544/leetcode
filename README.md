@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/PawanKumar8544/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/PawanKumar8544/leetcode/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/PawanKumar8544/leetcode/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/PawanKumar8544/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PawanKumar8544/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PawanKumar8544/leetcode/tree/master/2029-stone-game-ix) |
@@ -708,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/PawanKumar8544/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/PawanKumar8544/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PawanKumar8544/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
